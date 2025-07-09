@@ -23,10 +23,3 @@ Whether you're sending a single photo or an entire folder, Rocket Share ensures 
 
 
  
-#![Screenshot_1752044271](https://github.com/user-attachments/assets/1acb32cd-d8bd-4d1a-83b5-e1b7dd2e9f9e)
-
-#![Screenshot_1752044278](https://github.com/user-attachments/assets/86f9a524-43b9-4269-8a52-380d90d5141e)
-
-#![Screenshot_1752044317](https://github.com/user-attachments/assets/acb2d0bc-4039-4830-a13d-bf7a22866b07)
-
-#![Screenshot_1752044344](https://github.com/user-attachments/assets/9135ea2b-cced-4dd3-8be0-ea11f8e377a7)
